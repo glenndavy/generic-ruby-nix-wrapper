@@ -1,0 +1,17 @@
+# Nix build results
+result
+result-*
+
+# Ruby
+*.gem
+*.rbc
+.bundle
+.config
+vendor/bundle/
+.ruby-gemset
+
+# Development shell gems (isolated)
+.nix-gems/
+
+# OS
+.DS_Store

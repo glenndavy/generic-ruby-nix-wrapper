@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+
+# Example gems - customize for your actual utility
+gem 'aws-sdk-ec2', '~> 1.0'
+gem 'thor', '~> 1.3'
